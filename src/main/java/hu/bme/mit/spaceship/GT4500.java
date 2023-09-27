@@ -80,7 +80,11 @@ public class GT4500 implements SpaceShip {
         // try to fire both of the torpedo stores
         //TODO implement feature
         //javitott a pull_requesthez
+<<<<<<< HEAD
         //branch A szerkesztése
+=======
+        //branch B szerkesztese
+>>>>>>> B
         return true;
         //break;
     }
